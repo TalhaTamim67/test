@@ -308,6 +308,7 @@ footer ul {
         color: #fff;
         border: 1px solid #8196C2;
         transition: 1s;
+        margin-bottom: 10px;
     }
 
     main {
@@ -353,13 +354,4 @@ footer ul {
         justify-content: space-around;
         display: flex;
     }
-}
-
-
-
-
-
-
-
-
 }
